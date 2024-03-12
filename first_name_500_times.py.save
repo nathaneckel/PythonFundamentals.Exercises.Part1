@@ -1,0 +1,5 @@
+first_name =tNathanthan"
+	for i in range(500):
+		print(“Nathan”)
+
+
